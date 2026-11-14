@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{02af1b07-05e0-0e66-da60-83cd4ec91ab1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.2D.Welcome", "Unity.2D.Welcome.csproj", "{1dd3bcd8-7e5d-c9b3-4f83-4805f180f9f8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02af1b07-05e0-0e66-da60-83cd4ec91ab1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02af1b07-05e0-0e66-da60-83cd4ec91ab1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1dd3bcd8-7e5d-c9b3-4f83-4805f180f9f8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1dd3bcd8-7e5d-c9b3-4f83-4805f180f9f8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
